@@ -10,6 +10,11 @@ y dos módulos css:
 - Style
 - Reset
 
+Instalación:
+- Copiar el repositorio
+- Abrir el **index.html**
+
+
 Desarrollado por:
 schavar1
 
